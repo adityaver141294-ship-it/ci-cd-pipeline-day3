@@ -1,0 +1,9 @@
+{
+  "name": "day3",
+  "version": "1.0.0",
+  "description": "Learning GitHub Actions build and test",
+  "main": "math.js",
+  "scripts": {
+    "test": "node math.test.js"
+  }
+}
